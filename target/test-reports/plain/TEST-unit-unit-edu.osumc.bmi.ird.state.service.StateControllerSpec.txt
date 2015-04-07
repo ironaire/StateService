@@ -1,0 +1,10 @@
+Testsuite: edu.osumc.bmi.ird.state.service.StateControllerSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.238 sec
+------------- Standard Output ---------------
+--Output from test index returns all states in json format--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test index returns all states in json format--
+------------- ---------------- ---------------
+
+Testcase: test index returns all states in json format took 0.223 sec

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="swang-workstation" name="edu.osumc.bmi.ird.state.service.StateControllerSpec" tests="1" time="0.238" timestamp="2015-04-07T19:41:52">
+  <properties />
+  <testcase classname="edu.osumc.bmi.ird.state.service.StateControllerSpec" name="test index returns all states in json format" time="0.223" />
+  <system-out><![CDATA[--Output from test index returns all states in json format--
+]]></system-out>
+  <system-err><![CDATA[--Output from test index returns all states in json format--
+]]></system-err>
+</testsuite>
